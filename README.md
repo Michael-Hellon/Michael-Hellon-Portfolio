@@ -46,7 +46,6 @@ My Github profile can be located at <https://github.com/Michael-Hellon/>
 You can email me with any questions at <mwhellon@yahoo.com>
 
 ![screenshot](src/assets/images/screenshot1.png)
-![screenshot](src/assets/images/screenshot2.png)
 
 ## Credits
 
